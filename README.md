@@ -8,7 +8,7 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/ruslansann)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=Kaggle&logoColor=white)](https://www.kaggle.com/faraname)
 
-I'm a Data Scientist from Russia, working at [@NN](https://github.com/).  
+I'm a Data Scientist from Russia
 
 I'm interested in Data Science, NLP, classic ML. I hate JavaScript💀  
 
